@@ -1,4 +1,4 @@
-Proyecto anticontaminacion
+## Proyecto anticontaminacion
 
 # Solucion tecnologíca para el cambio climatico 
 Intenta hacer un calculo de cuanta basura uno tira al dia
@@ -6,7 +6,7 @@ Intenta hacer un calculo de cuanta basura uno tira al dia
 ## Descripción  del proyecto
 Este proyecto hace un calculo para averiguar cuanta basura
 
-## ¿porque es importante?
+## ¿Porque es importante?
 Es importante para saber y concientizar cuanta basura tira uno cada dia
 
 ## Solución propuesta
