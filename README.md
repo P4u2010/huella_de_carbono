@@ -18,8 +18,8 @@ E decidido que usare las plataformas Web como metodo de divulgacion
   
    
 ## Tecnologías utilizada
-- *Front-end* HTML CSS
-- *Back-end* Python Flask
+- *Front-end*: HTML CSS
+- *Back-end*: Python Flask
 
 
 ## configruacion he intalacion
