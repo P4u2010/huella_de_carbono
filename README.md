@@ -14,6 +14,7 @@ Con saber este tipo de informacion podemos saber y averiguar como disminuir esa 
 
 ## Metodo de divulgacion
 **Plataforma web como metodo de divulgación sobre la huella de carbono**
+
 E decidido que usare las plataformas Web como metodo de divulgacion 
   
    
