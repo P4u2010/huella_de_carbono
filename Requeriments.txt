@@ -2,3 +2,4 @@ Requerimentos/bibliotecas que deben ser instaladas:
 -pip = 24.2
 -Flask = 3.0.3
 -numpy = 2.1.1
+-Sqlalchemy = 
