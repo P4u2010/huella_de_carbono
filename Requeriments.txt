@@ -1,4 +1,4 @@
 Requerimentos/bibliotecas que deben ser instaladas:
 -pip = 24.2
 -Flask = 3.0.3
--Sqlalchemy = 2.0.35
+-Flask-SQLAlchemy = 2.0.35
