@@ -1,10 +1,14 @@
 ## Proyecto anticontaminacion
 
+
+## Descripción del proyecto y posibles usos
+Este proyecto hace un calculo para averiguar cuanta basura se tira al dia, dependiendo de la persona. este proyecto podria usarse para dar a conocer a la persona su Co2 producido al dia
+
+https://github.com/user-attachments/assets/558bb583-aa8b-4702-a750-33026f4a8dd2
+
 # Solucion tecnologíca para el cambio climatico 
 Intenta hacer un calculo de cuanta basura uno tira al dia
 
-## Descripción  del proyecto
-Este proyecto hace un calculo para averiguar cuanta basura se tira al dia, dependiendo de la persona.
 
 ## ¿Porque es importante?
 Es importante para saber y concientizar cuanta basura tira uno cada dia.
