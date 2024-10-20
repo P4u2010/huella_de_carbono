@@ -32,3 +32,6 @@ Clonar o descargar el repositorio ''' https://github.com/P4u2010/huella_de_carbo
 Crear entornos virtuales con la documentación de flask ''' https://flask.palletsprojects.com/en/3.0.x/installation/ '''
 
 Intalar python, flask, Flask-SQLAlchemy
+
+
+CUALQUIER SUGERENCIA SERA ACEPTADA
